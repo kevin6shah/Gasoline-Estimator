@@ -4,7 +4,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'dart:async';
 
-const kGoogleApiKey = "AIzaSyCPSnTtP8qqFwqjJeup1Ot7Qby_-MVar50";
+const kGoogleApiKey = /*<KEY>*/;
 
 void main() => runApp(
       MaterialApp(home: MyApp()),
